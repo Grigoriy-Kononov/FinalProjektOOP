@@ -1,0 +1,5 @@
+D:\УЧЕБА\C#\FinalProjektOOP\obj\Debug\net6.0\FinalProjektOOP.csproj.AssemblyReference.cache
+D:\УЧЕБА\C#\FinalProjektOOP\obj\Debug\net6.0\FinalProjektOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\C#\FinalProjektOOP\obj\Debug\net6.0\FinalProjektOOP.AssemblyInfoInputs.cache
+D:\УЧЕБА\C#\FinalProjektOOP\obj\Debug\net6.0\FinalProjektOOP.AssemblyInfo.cs
+D:\УЧЕБА\C#\FinalProjektOOP\obj\Debug\net6.0\FinalProjektOOP.csproj.CoreCompileInputs.cache

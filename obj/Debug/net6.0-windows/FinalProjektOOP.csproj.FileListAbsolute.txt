@@ -1,0 +1,30 @@
+D:\УЧЕБА\C#\FinalProjektOOP\bin\Debug\net6.0-windows\FinalProjektOOP.exe
+D:\УЧЕБА\C#\FinalProjektOOP\bin\Debug\net6.0-windows\FinalProjektOOP.deps.json
+D:\УЧЕБА\C#\FinalProjektOOP\bin\Debug\net6.0-windows\FinalProjektOOP.runtimeconfig.json
+D:\УЧЕБА\C#\FinalProjektOOP\bin\Debug\net6.0-windows\FinalProjektOOP.dll
+D:\УЧЕБА\C#\FinalProjektOOP\bin\Debug\net6.0-windows\FinalProjektOOP.pdb
+D:\УЧЕБА\C#\FinalProjektOOP\obj\Debug\net6.0-windows\FinalProjektOOP.csproj.AssemblyReference.cache
+D:\УЧЕБА\C#\FinalProjektOOP\obj\Debug\net6.0-windows\FinalProjektOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\C#\FinalProjektOOP\obj\Debug\net6.0-windows\FinalProjektOOP.AssemblyInfoInputs.cache
+D:\УЧЕБА\C#\FinalProjektOOP\obj\Debug\net6.0-windows\FinalProjektOOP.AssemblyInfo.cs
+D:\УЧЕБА\C#\FinalProjektOOP\obj\Debug\net6.0-windows\FinalProjektOOP.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\C#\FinalProjektOOP\obj\Debug\net6.0-windows\FinalProjektOOP.dll
+D:\УЧЕБА\C#\FinalProjektOOP\obj\Debug\net6.0-windows\refint\FinalProjektOOP.dll
+D:\УЧЕБА\C#\FinalProjektOOP\obj\Debug\net6.0-windows\FinalProjektOOP.pdb
+D:\УЧЕБА\C#\FinalProjektOOP\obj\Debug\net6.0-windows\FinalProjektOOP.genruntimeconfig.cache
+D:\УЧЕБА\C#\FinalProjektOOP\obj\Debug\net6.0-windows\ref\FinalProjektOOP.dll
+D:\УЧЕБА\Объектно-ориентированное программирование\FinalProjektOOP\bin\Debug\net6.0-windows\FinalProjektOOP.exe
+D:\УЧЕБА\Объектно-ориентированное программирование\FinalProjektOOP\bin\Debug\net6.0-windows\FinalProjektOOP.deps.json
+D:\УЧЕБА\Объектно-ориентированное программирование\FinalProjektOOP\bin\Debug\net6.0-windows\FinalProjektOOP.runtimeconfig.json
+D:\УЧЕБА\Объектно-ориентированное программирование\FinalProjektOOP\bin\Debug\net6.0-windows\FinalProjektOOP.dll
+D:\УЧЕБА\Объектно-ориентированное программирование\FinalProjektOOP\bin\Debug\net6.0-windows\FinalProjektOOP.pdb
+D:\УЧЕБА\Объектно-ориентированное программирование\FinalProjektOOP\obj\Debug\net6.0-windows\FinalProjektOOP.csproj.AssemblyReference.cache
+D:\УЧЕБА\Объектно-ориентированное программирование\FinalProjektOOP\obj\Debug\net6.0-windows\FinalProjektOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\Объектно-ориентированное программирование\FinalProjektOOP\obj\Debug\net6.0-windows\FinalProjektOOP.AssemblyInfoInputs.cache
+D:\УЧЕБА\Объектно-ориентированное программирование\FinalProjektOOP\obj\Debug\net6.0-windows\FinalProjektOOP.AssemblyInfo.cs
+D:\УЧЕБА\Объектно-ориентированное программирование\FinalProjektOOP\obj\Debug\net6.0-windows\FinalProjektOOP.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\Объектно-ориентированное программирование\FinalProjektOOP\obj\Debug\net6.0-windows\FinalProjektOOP.dll
+D:\УЧЕБА\Объектно-ориентированное программирование\FinalProjektOOP\obj\Debug\net6.0-windows\refint\FinalProjektOOP.dll
+D:\УЧЕБА\Объектно-ориентированное программирование\FinalProjektOOP\obj\Debug\net6.0-windows\FinalProjektOOP.pdb
+D:\УЧЕБА\Объектно-ориентированное программирование\FinalProjektOOP\obj\Debug\net6.0-windows\FinalProjektOOP.genruntimeconfig.cache
+D:\УЧЕБА\Объектно-ориентированное программирование\FinalProjektOOP\obj\Debug\net6.0-windows\ref\FinalProjektOOP.dll
